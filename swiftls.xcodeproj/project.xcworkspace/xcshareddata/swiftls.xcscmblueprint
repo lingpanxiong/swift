@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "582DE90C86E04006BEC873CE60671742DA24B232",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "582DE90C86E04006BEC873CE60671742DA24B232" : 9223372036854775807,
+    "B4F6D6945F0E29519C80094713959D2925E5E38B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "73B9D514-B220-46EC-86DC-073D2690A834",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "582DE90C86E04006BEC873CE60671742DA24B232" : "swift\/",
+    "B4F6D6945F0E29519C80094713959D2925E5E38B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swiftls",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swiftls.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lingpanxiong\/swift-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "582DE90C86E04006BEC873CE60671742DA24B232"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lingpanxiong\/developer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4F6D6945F0E29519C80094713959D2925E5E38B"
+    }
+  ]
+}
